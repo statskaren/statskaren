@@ -7,8 +7,7 @@
 ---
 
 ## 🛠 Technical Skills  
-![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) *(data analysis, statistics)*  
-![RevMan](https://img.shields.io/badge/-RevMan-8A2BE2?logo= Cochrane&logoColor=white) *(systematic reviews)*  
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) *(data analysis, statistics)*   
 ![Rayyan](https://img.shields.io/badge/-Rayyan-4CAF50?logo=rayyan&logoColor=white) *(literature screening)*  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) *(version control)*  
 ![Causal Inference](https://img.shields.io/badge/-Causal%20Inference-FF6B6B) *(epidemiological methods)*
