@@ -7,8 +7,7 @@
 ---
 
 ## 🛠 Technical Skills  
-![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) *(data analysis, statistics)*   
-![Rayyan](https://img.shields.io/badge/-Rayyan-4CAF50?logo=rayyan&logoColor=white) *(literature screening)*  
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white) *(data analysis, statistics)*    
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) *(version control)*  
 ![Causal Inference](https://img.shields.io/badge/-Causal%20Inference-FF6B6B) *(epidemiological methods)*
 
@@ -22,8 +21,8 @@
 - Statistical analysis of public health data
 
 ### 🏥 **NATS-Unifesp-Diadema**  
-*ATS 2 Assistant* | Ministry of Health Collaboration  
-- Technical support in health technology research projects
+*HTA 2 Assistant* | Ministry of Health Collaboration  
+- Technical support in health technology assessment research projects
 - Data analysis for public health policies
 
 ---
