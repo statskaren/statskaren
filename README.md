@@ -2,7 +2,7 @@
 
 🎓 **Nutritionist** | 🎯 **MSc Public Health Student (USP)** | 📊 **Research Assistant**  
 
-📍 São Paulo, Brazil | ✉️ kare.kgomes@usp.br | 🔗 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)]([seu-linkedin])
+📍 São Paulo, Brazil | ✉️ kare.kgomes@usp.br | 🔗 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karengomes10/)
 
 ---
 
