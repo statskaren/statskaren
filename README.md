@@ -21,7 +21,7 @@
 - Statistical analysis of public health data
 
 ### 🏥 **NATS-Unifesp-Diadema**  
-*HTA 2 Assistant* | Ministry of Health Collaboration  
+*HTA 2 Assistant* | Brazilian Ministry of Health Collaboration  
 - Technical support in health technology assessment research projects
 - Data analysis for public health policies
 
